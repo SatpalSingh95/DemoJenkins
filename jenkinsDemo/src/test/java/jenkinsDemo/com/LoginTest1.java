@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class LoginTest {
+public class LoginTest1 {
 
 @Test
 public void openGoogle() {
@@ -19,5 +19,7 @@ System.out.println("Page Title: " + title);
 driver.quit();
 
 }
+
+
 
 }
